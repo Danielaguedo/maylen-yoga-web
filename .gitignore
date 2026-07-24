@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Capturas de pantalla — se regeneran con `node scripts/shoot.mjs`.
+# Los scripts de scripts/ sí se versionan.
+/screenshots/
